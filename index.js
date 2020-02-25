@@ -29,6 +29,6 @@ class teacher extends Person {
 
 }
 
-const sean = new teacher(`sean`, 43, `javascript`)
+const sean = new teacher(`sean`, 50, `javascript`)
 
 sean.mySubject();
